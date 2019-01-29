@@ -1,5 +1,5 @@
 # Stores REST API tests
 
-The tests in here are running on my Travis CI pipeline.
+This repo is for testing the store rest api on my Travis CI pipeline.
 
 
