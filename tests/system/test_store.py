@@ -41,7 +41,7 @@ class StoreTest(BaseTest):
                 resp = client.get('/store/test')
 
                 self.assertEqual(resp.status_code, 200)
-                self.assertDictEqual({'name': 'test', 'items': []},
+                self.assertDictEqual({'id': 1, 'name': 'test', 'items': []},
                                      json.loads(resp.data))
 
     def test_store_not_found(self):
