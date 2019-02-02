@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/aclaudio123/store-rest-api-test.svg?branch=master)](https://travis-ci.org/aclaudio123/store-rest-api-test)
+[![Build Status](https://travis-ci.org/aclaudio123/travisCI-store-rest-api-build.svg?branch=master)](https://travis-ci.org/aclaudio123/travisCI-store-rest-api-build)
 
 # Store REST API tests
 
